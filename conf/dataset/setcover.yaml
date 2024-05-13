@@ -1,0 +1,7 @@
+name: setcover
+num_train: 1000
+resolution: 2
+
+rhs_type: int
+lhs_type: int
+obj_type: int

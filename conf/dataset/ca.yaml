@@ -1,0 +1,7 @@
+name: ca
+num_train: 1000
+resolution: 1.
+
+rhs_type: int
+lhs_type: int
+obj_type: float
